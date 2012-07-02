@@ -1,0 +1,1 @@
+report_file_name = './fizzbuzz_report.txt'
